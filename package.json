@@ -1,0 +1,17 @@
+{
+  "name": "hungarian_self_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cal-heatmap": "^4.2.4",
+    "fs-extra": "^11.3.0",
+    "node-fetch": "^3.3.2"
+  }
+}
