@@ -24,7 +24,7 @@ jobs:
       - name: Generate calendar SVG
         run: node scripts/generateCalendar.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.HU_REPO_TOKEN }}
 
       - name: Commit and push updated SVG
         run: |
