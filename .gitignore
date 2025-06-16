@@ -1,6 +1,9 @@
 secret.key
 phrases_private.md
-phrases_decrypted.md
+phrases_decrypted.
+generate_key.py
+encrypt_phrase_file.py
+decrypt_phrase_file.py
 
 #project-wide
 .env
