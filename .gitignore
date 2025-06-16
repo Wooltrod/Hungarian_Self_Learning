@@ -1,3 +1,7 @@
+secret.key
+phrases_private.md
+phrases_decrypted.md
+
 #project-wide
 .env
 .DS_Store
