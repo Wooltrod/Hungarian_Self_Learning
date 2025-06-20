@@ -64,3 +64,54 @@
 59. szervezem - I organize
 60. Élvezem - I enjoy
 61. tesz - to do/practise
+---
+### [20-06-2025] Day 4 (PLn)
+62. Furcsa - strange
+63. Szokások - customs
+64. Esznek - (they) eat
+65. Americana- Americans
+66. Fegyver - weapon
+67. Árulnak - (they) sell
+68. "minden boltban fegyvert árulnak" - they sell weapons in every store
+69. a nap közepén - in the middle of the day
+70. bezárják- (they) close
+71. "a nap közepén bezárják a boltokat" - they close the stores in the middle of the day
+72. "így a magyaroknak is" - so do Hungarians
+73. "Lássuk, mik azok! amikntalan a legfurcsábbak" - Let's see what are those that might be the strangest ones.
+74. Lássuk - Let's see!
+75. Tyúkhúsleves - chicken (meat) soup
+76. Tyúk láb - chicken feet
+77. Beletesszük - (we) put/add
+78. Esszük - (we) eat
+79. "A tyúkhúslevesbe beletesszük a tyúk lábát, és még is esszük" - to the chicken (meat) stew/soup, we add chicken feet, and we also eat it (the feet)
+80. Imádunk - (we) love to...
+81. Arról beszélni - speaking about
+82. Békeszerződés - (peace) treaty
+83. Igazságtalan - unjust/unfair
+84. Európa nagy része - most of Europe
+85. Magyar terület - Hungarian territory
+86. Hívjuk - (we) call
+87. "A Balatont tengernek hívjuk" - we call the (lake) Balaton a sea
+88. "...a Gellért-hegyet pedig hegynek" - while we call The Gellért Hill a mountain
+89. Majdnem - almost
+90. Bármivel - with anything
+91. Majdnem Bármivel - with almost anything
+92. Kockasajt - cheese cube
+93. Olyan - such a, a kind of
+94. Háromszög alakú - Triangular-shaped
+95. Kérek dobozban  - in a round box
+96. Azt gondoljuk - we think
+97. "Egy Pálinka sokkal jobb, mint egy gyógyszer." - it is much better to have a Pálinka, than to take medicine.
+98. Gyógyszer - medicine
+99. Hisszük - (we) believe
+100. Világon - in the world
+101. Bár - "However"/although
+102. Nyertek - they won/win
+103. Verseny - contest/competition
+104. "Bár még soha nem Nyertek Miss World versenyt" - although they have never won a Miss World Contest/competition
+105. Bármilyen - any
+106. "Bármilyen gyümölcsből vagy zöldséggel tudunk pálinkát főzni" - We can make pálinka from any kind of fruit or vegetable
+107. kerek - round
+108. Versenyt nyer - to win a competition
+109. Beletesz - to put into
+110. Fegyvert árul - to sell weapon
