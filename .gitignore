@@ -1,3 +1,4 @@
+*.txt
 secret.key
 phrases_private.md
 phrases_decrypted.md
