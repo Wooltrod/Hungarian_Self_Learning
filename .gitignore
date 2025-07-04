@@ -149,4 +149,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-[AI'd sentences] 1-110.txt
+*.txt
