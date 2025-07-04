@@ -1,4 +1,3 @@
-*.txt
 secret.key
 phrases_private.md
 phrases_decrypted.md
@@ -149,3 +148,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+[AI'd sentences] 1-110.txt
