@@ -65,7 +65,7 @@
 60. Élvezem - I enjoy
 61. tesz - to do/practise
 ---
-### [20-06-2025] Day 4 (PLn)
+### [20-06-2025] Day 4 (mGS)
 62. Furcsa - strange
 63. Szokások - customs
 64. Esznek - (they) eat
@@ -115,3 +115,65 @@
 108. Versenyt nyer - to win a competition
 109. Beletesz - to put into
 110. Fegyvert árul - to sell weapon
+---
+### [12-07-2025] Day 5 (7ZC)
+111. Ötlet - idea
+112. Ételpazarlás - food wastage
+113. Ellen - "against"
+114. "Magyar diákok ötlete ételpazarlás ellen" - Hungarian students' idea against food wastage
+115. Közösségi - community (adjective)
+116. Megoldas - solution
+117. Csökkenteni - to reduce
+118. Minden évben - every year
+119. Rengeteg - plenty
+120. Kukába - to the trash bin
+121. "pedig lehet" - even though/"but it can be"
+122. Megenne - would eat (it)
+123. Messze - far (away)
+124. Szívesen - gladly
+125. "valaki szívesen megenné azt az ételt" - "someone would gladly eat that food"
+126. "ezen a problémán szeretne segíteni a három diák" - "the three students would like to help with this problem"
+127. Segítségével - with the help of
+128. Felhasználók - users
+129. Megoszthatják - they can share
+130. Szúkségük - they need
+131. "A FoodOverflow segítségével a felhasználók megoszthatják azokat az ételeket amikre már nincs szükségük" - "using FoodOverflow users can share food they don't need anymore"
+132. Térképen - on a Map
+133. Pontosan - exactly
+134. Átvenni - take/collect
+135. Gyűjtenelk - they collect/earn/amass
+136. Igy - "like this"
+137. Láthatjak - they can see
+138. Tettek - "they did/have done"
+139. "mennyit tettek" - "how much they have done..."
+140. Jövöben - in the future
+141. "ha ezeket az 'érméket' boltokban vagy éttermekben lehetne használni" - "that these 'coins' be used in shops in restaurants"
+142. Reklám - promo/publicity/advert
+143. Elmondhatják - they can tell
+144. "az éttermeknek is jó reklám" - "it is good publicity/promo for the restaurants"
+145. Érméjük - their coin
+146. Vagyis - that is
+147. "milyen sokat" - how much
+148. Jótékonykodnka - (they) do charity
+149. "milyen sokat jótékonykodnak" - how much they have done charity
+150. Ötletével - with (the) idea
+151. Megnyertek - they won
+152. "A FoodOverflow ötletével a diákok megnyertek egy magyar versenyt" - With/thanks to the FoodOverflow idea, the students won a Hungarian competition.
+153. Elutazhattak - they could go/they coulkd leave for...
+154. Fiatal - young one/youngster
+155. Vett részt - participated
+156. "Így elutazhattak egy dublini versenyre is" - so they could go to a Dublin-based contest also
+157. Amin - where
+158. "tobb mint 700" - more than 700
+159. Sikeres - successful
+160. Weboldal - website
+161. Kitalál valamit - to invent/find something
+162. Csökkent valamit - to reduce something
+163. Rengeteg étel - plenty of food
+164. Felhasználó - user
+165. Megoszt valami - to share something
+166. Érméket gyűjt - to collect coins
+167. Jótekonykodik - to do charity work
+168. Megnyer egy versenyt - to win a competition
+169. Sikeres valamiben - successful in something
+170. Nemzetközi Nagydíj - International Prize
