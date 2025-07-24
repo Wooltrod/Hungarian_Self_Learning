@@ -97,6 +97,9 @@ web_modules/
 .cache
 .parcel-cache
 
+#input files  
+Anki_sentences/
+
 # Next.js build output
 .next
 out
