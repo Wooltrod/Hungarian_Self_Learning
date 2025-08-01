@@ -1,5 +1,5 @@
 secret.key
-phrases_private.md
+youtube_phrases_private.md
 phrases_decrypted.md
 generate_key.py
 encrypt_phrase_file.py
