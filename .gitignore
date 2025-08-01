@@ -1,9 +1,12 @@
 secret.key
+secret2.key
 youtube_phrases_private.md
 phrases_decrypted.md
 generate_key.py
 encrypt_phrase_file.py
 decrypt_phrase_file.py
+encrypt_fb_comments_file.py
+fb_comments_private.md
 
 #project-wide
 .env
