@@ -177,3 +177,75 @@
 168. Megnyer egy versenyt - to win a competition
 169. Sikeres valamiben - successful in something
 170. Nemzetközi Nagydíj - International Prize
+---
+### [14-08-2025] Day 6 (Djd)
+171. "Az igazán boldog emberek 10 szokasaá" - 10 habits of truly happy people
+172. Boldogság - happiness
+173. "Mindig keressük..." - We are always looking for...
+174. "Mindig keressük a boldogságot" - We are always looking for happiness
+175. sokszor - often
+176. konktrét - specific
+177. "ha valami konkrét dolog történik" - if something specific happens
+178. Munkahely - workplace
+179. azonban - however
+180. "...tesznek minket" - they make us...
+181. "hosszú távon" - in the long run/long-term
+182. "mindennapi szokásainkon" - our everyday habits
+183. Próbálunk - we try
+184. Változtatni - to change
+185. "a/az...miatt" - because of
+186. Természet - nature
+187. Indul - leave for...
+188. értékeljük - (we) appreciate
+189. Edzenek - they train
+190. Hangulat - mood
+191. mozog - to move (mozgunk - we move)
+192. Már - only
+193. elég - enough
+194. "jobban érezzük magunkat" - we feel better
+195. magunkat - ourselves
+196. érezzük - we feel (it)
+197. történik - to happen
+198. majd - then
+199. másokra - to others
+200. "másokra költenek" - they spend money on others
+201. költenek - they spend
+202. "valami apróságot" - something small
+203. másoknak - for others
+204. "hogy jobban érezzük magunkat" - "to feel better"
+205. "Boldogabbak vagyunk, ha másoknak veszünk valami apróságot, mint ha magunknak vennek valamit" - We are much happier, if we buy something small for others, than if we buy something for ourselves
+206. "Positiv emberekkel vannak együtt" - they spend time with positive people
+207. "Ha boldog emberek vannak mellettünk..." - if happy people are around us...
+208. maradnak - they remain/stay
+209. "Mindenkivel történnek rossz dolgok..." - Bad things happen to everybody
+210. "arra gondolni" - to think about it
+211. "nem arra kell gondolni - (we) don't have to think about it
+212. "a megoldás a problémára" - the solution to the problem
+213. "Koncentráljunk arra, hogy mi a megoldás a problémára" - Focus on the solution to the problem
+214. "Eleget alszanak" - they get enough sleep
+215. figyelni - to pay attention
+216. "jobban tudunk figyelni" - we can pay attention better
+217. viszont - on the other hand/however
+218. "keveset" + verb - little not enough
+219. "ha keveset alszunk" - if we get insufficient sleep/if we don't get enough sleep
+220. "Jobban érezzük magunkat" - we feel better
+221. "segítenek másoknak" - they help others
+222. "segít valakinek" - help someone
+223. "az nem csak annak az embernek jó; hanem nekünk is" - it's good not only for them/that person, but for us as well
+224. "Boldogak akarnak lenni" - they want to be happy
+225. "foglalkoz a valamivel" - engaged in something/occupied with something
+227. "foglalkoznak a hangulatukkal és a döntéseikkel" - they are engaged with their moods and decisions
+228. "elveszik a rutinban"- to get lost in routine
+229. "azon" - on it
+230. "dolgoznak azon, hogy boldog legyenek" - they are working on being happy
+231. "Nyitottan gondolkodunk" - we are open-minded
+232. "mert úgy érezzyük, hogy tudunk változtatni" - because we feel we can change
+233. kihívás - challenge
+234. lehetőseg - opportunity
+235. "változtat valamin" - to appreciate something
+236. "értékel valamit" - to appreciate something
+237. edz - train
+238. "jó a hangulatunk" - we are in a good mood
+239. "jól érzem magam" - I feel good
+240. penzt költ - to spend money
+241. apróság - tiny thing
