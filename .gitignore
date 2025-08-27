@@ -9,6 +9,7 @@ decrypt_phrase_file.py
 encrypt_fb_comments_file.py
 fb_comments_private.md
 decrypt_fb_comments_file.py
+build_master_lists.py
 
 #project-wide
 .env
