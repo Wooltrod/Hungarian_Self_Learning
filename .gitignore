@@ -159,3 +159,5 @@ dist
 .pnp.*
 
 *.txt
+
+!random_master.txt
