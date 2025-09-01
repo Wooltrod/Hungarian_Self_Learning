@@ -1,104 +1,145 @@
-takarítani - to clean
-betartani - to abide by/to keep
-gyógyszer - medicine
-hisszük - we believe
-közepén - in the middle of
-más - different
-borso - peas
-köt ki - end up (in)...
-legutobb - last time
-...elején - beginning of...
-megijedt - frightened
-fürdes - bathing swimming
-tehetséges - talented
-fegyver - weapon
-lefogyok - I will lose weight
-elvisz - to take away
-szervezem - I organize
-tyúk láb - chicken feet
-ezért - therefore/so
-égen - in the sky
-annyira - so/quite
-bár - however/although
-minket - us
-komolyan - seriously
-olyan - such a..., a kind of...
-tyúkhúsleves - chicken (meat) soup
-bezárják - they close
-azt gondoljuk - we think
-lakas - apartment
-árulnak - they sell
-idószak - period/phase
-élvezem - i enjoy
-sikerűl - succeed/manage
-szokások - customs
-később - later/later on
-nyujt - to provide
-fiatalság - youth
-babona - superstition
-vezettem - I hosted
+milyen sokat - how much
 megtalálni - to find (sth)
-vele - with it
-számomra - for me
-mindannyian - all of us
-hamar - soon/early
-töltök - I spend
-majdnem - almost
-ilyenkor - at this time
-látnival - sights/sites
-fogadalmak - resolutions
-elkezdődött - start/begin
-bánok - I manage
-malac - pork
-latogat - to visit
-korcsolyázni - ice skating
-ezelőtt - ago
-verseny - contest
-igazságtalan - unjust/unfair
-csillag - star
-fog - will (certainty)
-világszerte - worldwide
-nyertek - they won
-furcsa - strange
-szeretlek - i love you
-kerek - round/circular
-menedék - refuge/shelter
-például - for example
-szerencsét hoz - bring good luck
-része - part of it
-békeszerződés - peace treaty
-pedig - while/meanwhile
-kidobni - to thrown out
+kukába - to the trash bin
+azt gondoljuk - we think
 azoknak - for those
-nagy - O - the one
-vitorlázni - sailing
-túrázni - hiking
+lakas - apartment
+szívesen - gladly
+fiatalság - youth
+kerek - round/circular
+leszokom - I (will) quit
+világszerte - worldwide
+nem szabad - not allowed
+megoldas - solution
+árulnak - they sell
+nemzetközi - international
+kitalál valamit - to invent/to find something
+rengeteg - plenty
+közepén - in the middle of
+vett részt - participated
+babona - superstition
+háromszög alakú - triangular-shaped
+legutobb - last time
+bár - however/although
+segítségével - with the help of.../using...
+vele - with it
+pedig - while/meanwhile
+idószak - period/phase
+műsor - show
+ötlet - idea
+később - later/later on
+keresztül - through
+korcsolyázni - ice skating
+fiatal - young one/youngster
+gyűjtenek - they collect/earn/amass
+először - firstly
+barmivel - with anything
+megtiszteltetés - honorable
+elutazhattak - they could go/they could leave for
+elvisz - to take away
 hasonmas - impersonator
+ezért - therefore/so
+tesz - to do/to practice
+reklám - promo/publicity/advert
+más - different
+szerencsét hoz - bring good luck
+sikeres - successful
+olyan - such a..., a kind of...
+messze - far (away)
+térképen - on a map
+furcsa - strange
+mindannyian - all of us
+igazságtalan - unjust/unfair
+szilveszter ejjel - on New Year's Eve
+nyujt - to provide
+élvezem - i enjoy
+megoszthatják - they can share
+beletesszük - we put into/add
+ételpazarlás - food waste
+bármilyen - any
+lenyűgöz - amazing
+közösségi - community
+megoszt valami - to share something
 szerencsés - lucky
 legtobb ember - a lot of people
-tesz - to do/to practice
-ima - prayer
-nem szabad - not allowed
-megtiszteltetés - honorable
-kockasajt - cheese cube
-műsor - show
-lencse - lentils
-lássuk! - let's see
-sekély - shallow
-felmelegszik - to warm up
-szemet - trash
-háromszög alakú - triangular-shaped
-barmivel - with anything
-mögöttünk - behind us
-népszerű - popular
-gomboc - dumpling
-beletesszük - we put into/add
-formájú - round
-lenyűgöz - amazing
-keresztül - through
+...elején - beginning of...
+jövöben - in the future
+látnival - sights/sites
+majdnem - almost
+fogadalmak - resolutions
+több mint - more than
+verseny - contest
+csillag - star
 akarunk - we want/we desire
-szilveszter ejjel - on New Year's Eve
-először - firstly
-bármilyen - any
+sikeres valamiben - successful in something
+pontosan - exactly
+ellen - against
+népszerű - popular
+tettek - they did/they have done
+szokások - customs
+fürdes - bathing swimming
+betartani - to abide by/to keep
+minket - us
+lássuk! - let's see
+például - for example
+békeszerződés - peace treaty
+amin - where
+ima - prayer
+felhasználó - user
+latogat - to visit
+vitorlázni - sailing
+weboldal - website
+hisszük - we believe
+szükségük - they need
+igy - "like this"
+köt ki - end up (in)...
+fog - will (certainty)
+nyertek - they won
+szeretlek - i love you
+hamar - soon/early
+megijedt - frightened
+tehetséges - talented
+átvenni - take/collect
+komolyan - seriously
+elkezdődött - start/begin
 jelöltek - ...was nominated
-leszokom - I (will) quit
+menedék - refuge/shelter
+kidobni - to thrown out
+formájú - round
+csökkent valamit - to reduce something
+fegyver - weapon
+nagydij - prize
+kockasajt - cheese cube
+sekély - shallow
+égen - in the sky
+bánok - I manage
+felmelegszik - to warm up
+sikerűl - succeed/manage
+töltök - I spend
+túrázni - hiking
+vagyis - that is
+nagy - O - the one
+tyúkhúsleves - chicken (meat) soup
+megenné - would eat (it)
+lefogyok - I will lose weight
+tyúk láb - chicken feet
+gyógyszer - medicine
+ilyenkor - at this time
+jótékonykodnak - (they) do charity
+annyira - so/quite
+gomboc - dumpling
+mögöttünk - behind us
+ezelőtt - ago
+számomra - for me
+bezárják - they close
+borso - peas
+része - part of it
+elmondhatják - they can tell
+lencse - lentils
+csökkenteni - to reduce
+láthatjak - they can see
+szemet - trash
+szervezem - I organize
+takarítani - to clean
+malac - pork
+vezettem - I hosted
