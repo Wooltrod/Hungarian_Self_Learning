@@ -1,183 +1,195 @@
-lencse - lentils
-amin - where
-leszokom - I (will) quit
-ilyenkor - at this time
-fogadalmak - resolutions
-barmivel - with anything
-tettek - they did/they have done
-latogat - to visit
-verseny - contest
-elég - enough
-arra gondolni - to think about
-csökkent valamit - to reduce something
-fürdes - bathing swimming
-segít valakinek - help someone
-változtatni - to change
-mindennapi szokásaink - our everyday habits
-sikeres - successful
-megoszt valami - to share something
-ezelőtt - ago
-azoknak - for those
-milyen sokat - how much
-több mint - more than
-mögöttünk - behind us
-köt ki - end up (in)...
-annyira - so/quite
-elutazhattak - they could go/they could leave for
-szervezem - I organize
-szívesen - gladly
-konkrét - specific
-sokszor - often
-tyúk láb - chicken feet
-műsor - show
-békeszerződés - peace treaty
-próbálunk - we try
-csillag - star
-értékeljük - (we) appreciate
-magunkat - ourselves
-ellen - against
-fegyver - weapon
-megoldas - solution
-jobban érezzük magunkat - we feel better
-része - part of it
-mindannyian - all of us
-láthatjak - they can see
-kerek - round/circular
-edzenek - they train
-hisszük - we believe
-boldogság - happiness
-felmelegszik - to warm up
-keveset + verb - not enough of something
-lefogyok - I will lose weight
-történik - to happen
-viszont - on the other hand/however
-furcsa - strange
-közösségi - community
-ötlet - idea
-szilveszter ejjel - on New Year's Eve
-hamar - soon/early
-takarítani - to clean
-szükségük - they need
-hasonmas - impersonator
-jövöben - in the future
-élvezem - i enjoy
-babona - superstition
-látnival - sights/sites
-lássuk! - let's see
-majd - then
-égen - in the sky
 nagydij - prize
-fog - will (certainty)
-fiatal - young one/youngster
-...elején - beginning of...
-komolyan - seriously
-átvenni - take/collect
-például - for example
-hangulat - mood
-döntés - decision
-vagyis - that is
 ételpazarlás - food waste
-minket - us
-megtiszteltetés - honorable
-idószak - period/phase
-bezárják - they close
-kitalál valamit - to invent/to find something
-túrázni - hiking
-tyúkhúsleves - chicken (meat) soup
-figyelni - to pay attention
-kidobni - to thrown out
-segítenek másoknak - they help others
-elvisz - to take away
-szemet - trash
-közepén - in the middle of
-menedék - refuge/shelter
-igazságtalan - unjust/unfair
-térképen - on a map
-vezettem - I hosted
-pontosan - exactly
-nagy - O - the one
-később - later/later on
-ima - prayer
-vett részt - participated
-kockasajt - cheese cube
-akarunk - we want/we desire
-nyujt - to provide
+szilveszter ejjel - on New Year's Eve
 keresztül - through
-gyűjtenek - they collect/earn/amass
-formájú - round
-számomra - for me
-megijedt - frightened
-sekély - shallow
-igy - "like this"
-elkezdődött - start/begin
-népszerű - popular
-szerencsés - lucky
-azonban - however
-csökkenteni - to reduce
-felhasználó - user
-segítségével - with the help of.../using...
-eleget + verb - do enough of something
-háromszög alakú - triangular-shaped
-indul - leave for
-munkahely - workplace
-lakas - apartment
-sikerűl - succeed/manage
-megtalálni - to find (sth)
-érezzük - we feel it
-sikeres valamiben - successful in something
-költenek - they spend
-jelöltek - ...was nominated
-ezért - therefore/so
-hosszú távon - long-term
-árulnak - they sell
-arra - to that (about it)
-betartani - to abide by/to keep
-tehetséges - talented
-töltök - I spend
 vele - with it
-szokások - customs
-azt gondoljuk - we think
-szerencsét hoz - bring good luck
-bánok - I manage
-tesz - to do/to practice
-lenyűgöz - amazing
-messze - far (away)
-gomboc - dumpling
-beletesszük - we put into/add
-pedig - while/meanwhile
-elmondhatják - they can tell
-másokra - to others
-majdnem - almost
-korcsolyázni - ice skating
-legtobb ember - a lot of people
-világszerte - worldwide
-először - firstly
-bármilyen - any
-malac - pork
-szeretlek - i love you
-maradnak - they remain/stay
-már - only
-rengeteg - plenty
-gyógyszer - medicine
-jótékonykodnak - (they) do charity
-reklám - promo/publicity/advert
-borso - peas
-fiatalság - youth
-olyan - such a..., a kind of...
+...elején - beginning of...
+hisszük - we believe
+jobban érezzük magunkat - we feel better
+komolyan - seriously
 bár - however/although
-legutobb - last time
+majd - then
+bezárják - they close
+szeretlek - i love you
+lefogyok - I will lose weight
+számomra - for me
+köt ki - end up (in)...
+megoszthatják - they can share
+malac - pork
+része - part of it
+jótékonykodnak - (they) do charity
+vett részt - participated
+élvezem - i enjoy
+barmivel - with anything
+túrázni - hiking
+fogadalmak - resolutions
+azoknak - for those
+szokások - customs
+jövöben - in the future
+apróság - tiny thing
+ezért - therefore/so
+gomboc - dumpling
 tesznek minket - they make us...
+edz - to train
+változtatni - to change
+amin - where
+bármilyen - any
+ilyenkor - at this time
+szemet - trash
+népszerű - popular
+később - later/later on
+pontosan - exactly
+lehetőseg - opportunity
+penzt költ - spend money
+kidobni - to thrown out
+valtoztat valamin - to change somethibg
+milyen sokat - how much
+mögöttünk - behind us
+igazságtalan - unjust/unfair
+borso - peas
+más - different
+fiatalság - youth
+már - only
+békeszerződés - peace treaty
+jelöltek - ...was nominated
+vagyis - that is
+magunkat - ourselves
+indul - leave for
+nagy - O - the one
+latogat - to visit
+vezettem - I hosted
+háromszög alakú - triangular-shaped
+természet - nature
+elutazhattak - they could go/they could leave for
+hangulat - mood
+azt gondoljuk - we think
+menedék - refuge/shelter
+nyertek - they won
+sikeres valamiben - successful in something
+pedig - while/meanwhile
+sikerűl - succeed/manage
+lenyűgöz - amazing
+beletesszük - we put into/add
+jól érzem magam - I feel good
+azonban - however
+próbálunk - we try
+felhasználó - user
+vitorlázni - sailing
+korcsolyázni - ice skating
+mindannyian - all of us
+csökkent valamit - to reduce something
+tyúk láb - chicken feet
+segít valakinek - help someone
+költenek - they spend
 weboldal - website
 másoknak - for others
-megenné - would eat (it)
-vitorlázni - sailing
-más - different
-nyertek - they won
-nem szabad - not allowed
-a/az ... miatt - because of...
-megoszthatják - they can share
-foglalkoz - deals with (is engaged/is occupied with)
-kukába - to the trash bin
-természet - nature
-mozog - to move
+gyógyszer - medicine
+látnival - sights/sites
+konkrét - specific
+világszerte - worldwide
+szükségük - they need
+segítségével - with the help of.../using...
+megoszt valami - to share something
+ellen - against
+ötlet - idea
+elmondhatják - they can tell
+másokra - to others
+átvenni - take/collect
+munkahely - workplace
+tyúkhúsleves - chicken (meat) soup
+maradnak - they remain/stay
+fürdes - bathing swimming
+formájú - round
+igy - "like this"
+kockasajt - cheese cube
+edzenek - they train
+tesz - to do/to practice
 nemzetközi - international
+közösségi - community
+majdnem - almost
+legtobb ember - a lot of people
+hasonmas - impersonator
+láthatjak - they can see
+foglalkoz - deals with (is engaged/is occupied with)
+közepén - in the middle of
+égen - in the sky
+töltök - I spend
+rengeteg - plenty
+reklám - promo/publicity/advert
+elkezdődött - start/begin
+figyelni - to pay attention
+akarunk - we want/we desire
+nyujt - to provide
+kihívás - challenge
+takarítani - to clean
+csökkenteni - to reduce
+furcsa - strange
+térképen - on a map
+történik - to happen
+hosszú távon - long-term
+lakas - apartment
+döntés - decision
+kerek - round/circular
+messze - far (away)
+mindennapi szokásaink - our everyday habits
+fog - will (certainty)
+nyitottan gondolkodunk - we are open-minded ("we think openly")
+kukába - to the trash bin
+elég - enough
+több mint - more than
+eleget + verb - do enough of something
+szerencsét hoz - bring good luck
+csillag - star
+verseny - contest
+arra - to that (about it)
+azon - on it
+idószak - period/phase
+kitalál valamit - to invent/to find something
+szívesen - gladly
+minket - us
+fegyver - weapon
+babona - superstition
+megijedt - frightened
+sokszor - often
+ezelőtt - ago
+sikeres - successful
+árulnak - they sell
+segítenek másoknak - they help others
+tettek - they did/they have done
+megenné - would eat (it)
+keveset + verb - not enough of something
+értékel valamit - to appreciate something
+olyan - such a..., a kind of...
+értékeljük - (we) appreciate
+elvisz - to take away
+nem szabad - not allowed
+sekély - shallow
+boldogság - happiness
+érezzük - we feel it
+leszokom - I (will) quit
+mozog - to move
+felmelegszik - to warm up
+elveszik a rutinban - to get lost in routine
+szervezem - I organize
+tehetséges - talented
+először - firstly
+megtalálni - to find (sth)
+megoldas - solution
+fiatal - young one/youngster
+bánok - I manage
+lencse - lentils
+legutobb - last time
+arra gondolni - to think about
+gyűjtenek - they collect/earn/amass
+annyira - so/quite
+jó a hangulatunk - we are in a good mood
+lássuk! - let's see
+például - for example
+műsor - show
+ima - prayer
+betartani - to abide by/to keep
+megtiszteltetés - honorable
+szerencsés - lucky
+hamar - soon/early
+viszont - on the other hand/however
+a/az ... miatt - because of...
