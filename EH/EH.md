@@ -249,3 +249,14 @@
 239. "jól érzem magam" - I feel good
 240. penzt költ - to spend money
 241. apróság - tiny thing
+---
+### [12-09-2025] Day 7 (TXhf)
+242. kelek - I get up
+243. tusolok - I take a shower
+244. sietek - I rush/I hurry
+245. felszállok - I get on/I board
+246. leszállok - I get off/I alight
+247. kel/felkel - to get up
+248. tusol - to take a shower
+249. felszáll a buszra - to get on the bus
+250. leszáll a buszról - to get off the bus
