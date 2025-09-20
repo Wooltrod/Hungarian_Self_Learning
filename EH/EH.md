@@ -260,3 +260,34 @@
 248. tusol - to take a shower
 249. felszáll a buszra - to get on the bus
 250. leszáll a buszról - to get off the bus
+---
+### [20-09-2025] Day 8 (NnMo)
+251. évszak - season
+252. még - still
+253. vidám - happy
+254. energikus - energetic
+255. kirándulni - hiking
+256. vigyázni kell - we must be careful
+257. könnyen - easily
+258. megfázhatunk - we can get cold
+259. leülünk - we sit
+260. 30 fok - 30 degrees
+261. a hőmérséklet - the tempertaure
+262. strand - beach
+263. fagyiznak - they eat ice cream
+264. szabadsag - holiday (leave)
+265. nyaralnak - they spend their vacation
+266. tábor - camp
+267. sokféle tábor - several types of camps
+268. kellemes - mild (pleasant)
+269. esőkabát - raincoat
+270. vigyunk - we take sth. with us
+271. elmehetünk sielni - we can go skiing
+272. szánkózni - sledgeing
+273. "egyutt van a csalad" - the family is together
+274. egyre hosszabb - longer & longer
+275. megfázunk - we get cold
+276. forralt bor - hot wine
+277. "...mert ő tudja, hogy mi a napi programom" - ...because she knows, what my daily schedule is
+278. egyre - increasingly
+279. elég sok - quite a lot
