@@ -4,7 +4,7 @@ secret3.key
 youtube_phrases_private.md
 phrases_decrypted.md
 comments_decrypted.md
-j'd_phrases_private.md
+jd_phrases_private.md
 generate_key.py
 encrypt_phrase_file.py
 decrypt_phrase_file.py
@@ -12,8 +12,8 @@ encrypt_fb_comments_file.py
 fb_comments_private.md
 decrypt_fb_comments_file.py
 build_master_lists.py
-encrypt_j'd_phrases_file.py
-decrypt_j'd_phrases_file.py
+encrypt_jd_phrases_file.py
+decrypt_jd_phrases_file.py
 
 #project-wide
 .env
