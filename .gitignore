@@ -166,3 +166,4 @@ dist
 *.txt
 
 !random_master.txt
+commands.txt
