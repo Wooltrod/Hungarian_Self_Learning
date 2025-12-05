@@ -14,7 +14,7 @@ decrypt_fb_comments_file.py
 build_master_lists.py
 encrypt_jd_phrases_file.py
 decrypt_jd_phrases_file.py
-jd_vocab_extraction.py
+extract_jd_vocab.py
 
 #project-wide
 .env
