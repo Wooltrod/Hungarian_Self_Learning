@@ -15,6 +15,7 @@ build_master_lists.py
 encrypt_jd_phrases_file.py
 decrypt_jd_phrases_file.py
 extract_jd_vocab.py
+extract_jd_anki.py
 
 #project-wide
 .env
