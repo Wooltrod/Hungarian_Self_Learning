@@ -16,6 +16,7 @@ encrypt_jd_phrases_file.py
 decrypt_jd_phrases_file.py
 extract_jd_vocab.py
 extract_jd_anki.py
+gpt_conversation.md
 
 #project-wide
 .env
