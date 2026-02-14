@@ -166,6 +166,7 @@ dist
 .pnp.*
 
 *.txt
+*.key
 
 !random_master.txt
 commands.txt
