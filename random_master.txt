@@ -1,399 +1,407 @@
-lakas - apartment
-egyfajta - a kind of...
-érezzük - we feel it
-töltök - I spend
-bármilyen - any
-egyszerre - simultaneously, at the same time
-hasonmas - impersonator
-erős - strong/intense/potent
-halkszavú - soft-spoken, quiet
-győzelem - victory
-milyen sokat - how much
-napozni - to sunbathe
-vívódás - wrestling
-őszintén - sincerely
+hát igen - "yeah, that's it"
 majd - then
-szánkózni - sledgeing
-látnival - sights/sites
-vitorlázni - sailing
-felnőtt - adult
-takarítani - to clean
-mozog - to move
-könnyen - easily
-fogott meg - stood out (to me)
-finomság - nuance, subtlety
-... + hangvételű - (adj) + toned
-összepakoltam (pakolni) - I packed up
-úgyhogy - so
-edz - to train
-... - hoz/-hez képest - compared to sth
-összetartozás - cohesion
-önmagában - by itself
+egyszerre - simultaneously, at the same time
+pontosan - exactly
+vállalom (vállalni) - I undertake
+weboldal - website
+megparancsolta (parancsolni) - she ordered
+kemény hangvételű - harsh toned
+mélyedünk el - we dive deep into/we delve into
+alacsony - low
+azon - on it
+valtoztat valamin - to change somethibg
+másokra - to others
+megijedt - frightened
+műsor - show
+jó a hangulatunk - we are in a good mood
+irányítás - direction/control
+állandóan - constantly
+előző - previous
+vidám - happy
+intéztem (intézni) - I handled
+mindkettö - both
+hosszú távon - long-term
+megoldas - solution
+olyan - such a..., a kind of...
+...elején - beginning of...
 viselni - to wear
-gazdagabb - richer
+szeretettel - with love
+érezzük - we feel it
+közepén - in the middle of
+csomó kaja - bunch of food
+gyógyszer - medicine
+keresztül - through
+bemutatkozni - to introduce oneself
+eleget + verb - do enough of something
+közösségi - community
+jelöltek - ...was nominated
+hamar - soon/early
+látnival - sights/sites
+sikeres - successful
+nemzetközi - international
+szerezni - to gain
+elveszik a rutinban - to get lost in routine
+mostani - current
+napló - diary
+tesznek minket - they make us...
+fapofával - with a wooden (straight) face
+elég - enough
 vigyunk - we take sth. with us
 latogat - to visit
-először - firstly
-elmehetünk - we can go
-izgalmas - exciting
-szerencsét hoz - bring good luck
-megenné - would eat (it)
-felhasználó - user
-azt gondoljuk - we think
-közepén - in the middle of
-csomó - bunch/cluster
-vett részt - participated
-emberi - human (adj.)
-költenek - they spend
-rohonva - rushing
-megoszthatják - they can share
-arra - to that (about it)
-vaáratlan - unexpected
-szóvalasztás - word choice
-tyúk láb - chicken feet
-tyúkhúsleves - chicken (meat) soup
-hozol létre - you bring about/you create
-elvitelre szánt - for takeaway
-elutazhattak - they could go/they could leave for
-fegyver - weapon
-megfogalmazni - phrasing/to phrase
-Ki nem állhatom - I can't stand it
-amin - where
-hűtötáska - cooler (fridge)
-kezdeti - initial
-kifejezés - expression
-csillag - star
-megbeszéltnél - as discussed/agreed
-inkább - (would) rather
-üdvözöllek - I greet you
-megtiszteltetés - honorable
-tovább - further
-idószak - period/phase
-nemzetközi - international
-leszokom - I (will) quit
-intéztem (intézni) - I handled
-vele - with it
-ima - prayer
-szilveszter ejjel - on New Year's Eve
-készen allsz? - are you ready
-sokkal több van benne - there's much more to it
-forralt bor - hot wine
-kitalál valamit - to invent/to find something
-tesznek minket - they make us...
-esőkabát - raincoat
-elvitelre szánt doboz - takeaway box
-lehetőseg - opportunity
-segít valakinek - help someone
-lenyűgöz - amazing
-energikus - energetic
-szobatársam - my roommate
-hangulat - mood
-szerencsés - lucky
-"ez a rend, és kesz" - this is how it is, full stop
-tartó - lasting
-fürdes - bathing swimming
-babona - superstition
-fogadalmak - resolutions
-felhívott (felhívni) - called (phone)
-megnyugtató - comforting, soothing
-tudat - brilliant/genius
-tartja - (tartani) - he holds/conducts
-nagydij - prize
-jelöltek - ...was nominated
-felkészültem - I prepared (myself)
-hozzáteszed - you add
-szeretlek - i love you
-minket - us
-magabiztosan - confidently
-komolyan - seriously
-teli - full of..
-vállalom (vállalni) - I undertake
-másokra - to others
-szabadsag - holiday (leave)
-kipucoljam (kipucolni) - to clean, polish, clear off
-sikerűl - succeed/manage
-közel - near/close
-arra gondolni - to think about
-égen - in the sky
-rideg - cold, sterile, unwelcoming
-a hőmérséklet - the temperature
-népszerű - popular
-békeszerződés - peace treaty
-remélem (remélni) - I hope (to hope)
-nyaggattak (nyaggatni) - they pestered/nagged
-belső - internal
-gyűjtenek - they collect/earn/amass
-elkezdődött - start/begin
-olyan - such a..., a kind of...
-igy - "like this"
-kellemetlenség - nuisance, inconvenience
-weboldal - website
-meglepetés - surprise
-cuki - cute
-sült hal - fried fish
-csomó kaja - bunch of food
-egészen pontosan - to be exact
-megkérdőjelezhetetlen - unquestionable
-fog - will (certainty)
-napoznak - they sunbathe
-kánikula - heat wave
-mindannyian - all of us
-tábor - camp
-figyelni - to pay attention
-feltarjuk - we are going to reveal
-világszerte - worldwide
-tesz - to do/to practice
-számomra - for me
-segítségével - with the help of.../using...
-naptej - sunscreen
-...elején - beginning of...
-strand - beach
-kézzel fogható - concrete/tangible
-kemény hangvételű - harsh toned
-képest - compared to
-hoztam nektek - "I brought (for) you"
-nagy - O - the one
-bánok - I manage
-része valaminek - it's part of something
-döntöttem (dönteni) - I decided
-rendeztem (rendezni ) - I arranged
-lencse - lentils
-irányítast szerezni - to gain control/direction
-összeegyeztetni - to balance/receoncile
-sokkal - much
-előző - previous
-bírom (birni) - I (can) handle, bear
-kemény - stern, harsh
-túrázni - hiking
-megfázhatunk - we can get cold
-kellemes - mild (pleasant)
-valtoztat valamin - to change somethibg
-elvitelre - takeaway
-köt ki - end up (in)...
-edzenek - they train
-próbaműszak - trial shift
-menedék - refuge/shelter
-mögöttünk - behind us
-elemzés - analysis
-borso - peas
-panasz - complaint
-azonban - however
-ötlet - idea
-próbálunk - we try
-kirándulni - hiking
-kockasajt - cheese cube
-30 fok - 30 degrees
-ásványvize - mineral water
-jégkrém - ice cream (ice lolly)
-őszinte - honest
-indultam (indulni) - i left
-bár - however/although
-szükségük - they need
-lenyomata - imprint/impression
-korábban - earlier
-ezért - therefore/so
-feszültség - tension
-csökkent valamit - to reduce something
-beletesszük - we put into/add
-értékeljük - (we) appreciate
-tettek - they did/they have done
-jelezte - signaled, indicted, highlighted
-azon - on it
-korcsolyázni - ice skating
-közelsége - his nearness, his closeness
-be kell kenni magukat - we must smear ourselves with...
-munkahely - workplace
-magunkat - ourselves
-elvisz - to take away
-állhatom - I can stand it/endure it
-különböző - different
-romlott (romlani) - worsened, deteriorated
-időszak - period
-leszidott (leszidni) - scolded
-ételpazarlás - food waste
-például - for example
-megfelelebbezhetetlen - indisputably
-leülünk - we sit
-történik - to happen
-évszak - season
-kidobni - to thrown out
-egyre - increasingly
-eleget + verb - do enough of something
-állandóan - constantly
-sokszor - often
-majdnem - almost
-megoszt valami - to share something
-homokozni - to play in the sand
-élvezem - i enjoy
-motiváló - motivating/motivational
-csökkenteni - to reduce
-elmondhatják - they can tell
-szívesen - gladly
-mindkettö - both
-reggeliztetés - breakfast service
-feszült - tense
-UV - Sugárzás - UV Radiation
-malac - pork
-nyujt - to provide
-szokások - customs
-igazság - truth
-Véletlenül - accidentally
-nyers - raw
-elég - enough
-napló - diary
-kukába - to the trash bin
-szervezem - I organize
-elveszik a rutinban - to get lost in routine
-szabadnapos - day off
-mivel - 'since'/'because'
-megijedt - frightened
-összes - all
-végül - ultimately, in the end, eventually
-rajta - on him/on her/on it
-jövöben - in the future
-pincérkedés - 'waitering'
-keveset + verb - not enough of something
-távoztam (távozni) - I left
-Remélem - I hope
-vagyis - that is
-üdítő/üdítőital - soft drink
-megtalálni - to find (sth)
-fagyi - ice cream
-formájú - round
-pedig - while/meanwhile
-konkrét - specific
-sokféle - severel types of...
-szinte - almost
-más - different
-későn - late
-kötelező - mandatory/compulsory
-mostani - current
-a/az ... miatt - because of...
-felmelegszik - to warm up
-barmivel - with anything
-naptejjel beken - to apply sunscreen
-vezettem - I hosted
-sikeres - successful
-apróság - tiny thing
-teljesítményünk - our performance
-háromszög alakú - triangular-shaped
-jó a hangulatunk - we are in a good mood
-ezelőtt - ago
-személyes - personal
-ilyenkor - at this time
-nyaralnak - they spend their vacation/they vacation
-értékel valamit - to appreciate something
-keddenként - on Tuesdays (recurring, habitual)
-keresztül - through
-békén - peacefully
-több mint - more than
-manapság - nowadays/these days
-kapni - to get
-része - part of it
-lássuk! - let's see
-mélyedünk el - we dive deep into/we delve into
-hamar - soon/early
-körben - "in a circle"
-játszani - to play
-megoldas - solution
-beértem (beérni) - I arrived
-tehetséges - talented
-szeretettel - with love
-pontosan - exactly
-pont ettől - exactly because of/due to this
-magaban hordozza - carries with itself
-sikeres valamiben - successful in something
-láthatjak - they can see
-jelentes - meaning
-fapofával - with a wooden (straight) face
-műsor - show
-indul - leave for
-azoknak - for those
-hisszük - we believe
-gyógyszer - medicine
-kerek - round/circular
-szerezni - to gain
-sekély - shallow
-verseny - contest
-átlagos - average
-ellen - against
-maradnak - they remain/stay
-sielni - skiing
-annyira - so/quite
-kihívás - challenge
-elvárás - expectation
-nevetnek (nevetni) - they laugh
-segítenek másoknak - they help others
-reklám - promo/publicity/advert
-furcsa - strange
-árulnak - they sell
-csodálatos - wonderful
-rengeteg - plenty
-positivan meglepődtem - I was positively surprised
-durván - rudely
-természet - nature
-átvenni - take/collect
-foglalkoz - deals with (is engaged/is occupied with)
-nem szabad - not allowed
-teljesítmény - performance
-bezárják - they close
-akarunk - we want/we desire
-megfordítod - you flip it
-legutobb - last time
-nyertek - they won
 már - only
-igazságtalan - unjust/unfair
-lefogyok - I will lose weight
-tükrözi - reflects
-betartani - to abide by/to keep
-nyitottan gondolkodunk - we are open-minded ("we think openly")
-messze - far (away)
-Hogyne? - But of course
-szabadság - holiday/leave
-megfázunk - we get cold
-vattacukor - cotton candy
-penzt költ - spend money
-vidám - happy
-dolgozók - staff
-főnök - chief/boss
-palacsinta - pancake
-ciki - awkward/embarassing
-közösségi - community
+indultam (indulni) - i left
+különböző - different
+vigyázni kell - we must be careful
+megbeszéltnél - as discussed/agreed
+békén - peacefully
+ima - prayer
+nyaggattak (nyaggatni) - they pestered/nagged
+fog - will (certainty)
 rendet teremteni - to create order
-változtatni - to change
-jótékonykodnak - (they) do charity
-egyre hosszabb - longer & longer
-szemet - trash
-döntés - decision
-bejegyzés - entry
-gofri - waffle
-rászántam - i resolved/i decided
-szabadságra mennek - 'they go on holiday/leave'
+beértem (beérni) - I arrived
+megenné - would eat (it)
+próbálunk - we try
+ötlet - idea
+háromszög alakú - triangular-shaped
+panasz - complaint
+szabadsag - holiday (leave)
+vívódás - wrestling
+korcsolyázni - ice skating
+túrázni - hiking
+belső - internal
+készen allsz? - are you ready
+lehetőseg - opportunity
+egyfajta - a kind of...
+hozzáteszed - you add
+mindennapi szokásaink - our everyday habits
+próbaműszak - trial shift
+megnyugtató - comforting, soothing
+kellemes - mild (pleasant)
+értékeljük - (we) appreciate
+csodálatos - wonderful
+borso - peas
+napoznak - they sunbathe
+babona - superstition
+távoztam (távozni) - I left
+egyre - increasingly
+igazságtalan - unjust/unfair
+szívesen - gladly
+fagyi - ice cream
 legtobb ember - a lot of people
+több mint - more than
+fagyiznak - they eat ice cream
+sielni - skiing
+rajta - on him/on her/on it
+barmivel - with anything
+sekély - shallow
+főnök - chief/boss
+teli - full of..
+felmelegszik - to warm up
+közelsége - his nearness, his closeness
+kezdeti - initial
+ezelőtt - ago
+hasonmas - impersonator
+állhatom - I can stand it/endure it
+energikus - energetic
+pont ettől - exactly because of/due to this
+sült hal - fried fish
+harc - fight
+dolgozók - staff
+hoztam nektek - "I brought (for) you"
+kipucoljam (kipucolni) - to clean, polish, clear off
+vezettem - I hosted
+mozog - to move
+menedék - refuge/shelter
+takarítani - to clean
+töltök - I spend
+edz - to train
+konkrét - specific
+kézzel fogható - concrete/tangible
+tehetséges - talented
+értékel valamit - to appreciate something
+szabadságra mennek - 'they go on holiday/leave'
+... + hangvételű - (adj) + toned
+üdítő/üdítőital - soft drink
+jótékonykodnak - (they) do charity
+lakas - apartment
+elvisz - to take away
+ütkozik - it clashes (with)
+minket - us
+őszinte - honest
+szinte - almost
+romlott (romlani) - worsened, deteriorated
+kellemetlenség - nuisance, inconvenience
+változtatni - to change
+csökkenteni - to reduce
+döntöttem (dönteni) - I decided
+kihívás - challenge
+körben - "in a circle"
+nagy - O - the one
+maradnak - they remain/stay
+bár - however/although
+lássuk! - let's see
+tyúkhúsleves - chicken (meat) soup
+teljesítmény - performance
+nyitottan gondolkodunk - we are open-minded ("we think openly")
+keveset + verb - not enough of something
+átlagos - average
+kifejezés - expression
+őszintén - sincerely
+képest - compared to
+végül - ultimately, in the end, eventually
+lencse - lentils
+leülünk - we sit
+kontrollérzet - feeling/sense of control
+egészen pontosan - to be exact
+sokkal több van benne - there's much more to it
+fogadalmak - resolutions
+szemet - trash
+inkább - (would) rather
+kockasajt - cheese cube
+csomó - bunch/cluster
+remélem (remélni) - I hope (to hope)
+fiatalság - youth
+majdnem - almost
+esőkabát - raincoat
+elvitelre - takeaway
+nyers - raw
+hagytam (hagyni) - I left/I forgot
+elmondhatják - they can tell
+munkahely - workplace
+jelezte - signaled, indicted, highlighted
+arra gondolni - to think about
+magaban hordozza - carries with itself
+motiváló - motivating/motivational
+strand - beach
+megfordítod - you flip it
+árulnak - they sell
+befejezettség - completeness
+irányítast szerezni - to gain control/direction
+a hőmérséklet - the temperature
+sugalja - suggests/implies
+összepakoltam (pakolni) - I packed up
+szerencsét hoz - bring good luck
+egyre hosszabb - longer & longer
+azt gondoljuk - we think
+azoknak - for those
+lefogyok - I will lose weight
+elmehetünk - we can go
+annyira - so/quite
+hozol létre - you bring about/you create
+reklám - promo/publicity/advert
+kitalál valamit - to invent/to find something
+elvárás - expectation
+"ez a rend, és kesz" - this is how it is, full stop
+furcsa - strange
+gomboc - dumpling
+tovább - further
+tükrözi - reflects
+megkérdőjelezhetetlen - unquestionable
+fürdes - bathing swimming
+szokások - customs
+kemény - stern, harsh
+penzt költ - spend money
+része - part of it
+hisszük - we believe
+palacsinta - pancake
+szabadság - holiday/leave
+gofri - waffle
+jövöben - in the future
+rengeteg - plenty
+győzelem - victory
+verseny - contest
+erős - strong/intense/potent
+messze - far (away)
+felhasználó - user
+be kell kenni magukat - we must smear ourselves with...
+idószak - period/phase
+úgyhogy - so
+pincérkedés - 'waitering'
+gazdagabb - richer
+más - different
+Remélem - I hope
+még - still
+évszak - season
+mindannyian - all of us
+sokféle - severel types of...
+magabiztosan - confidently
+fegyver - weapon
+vagyis - that is
+positivan meglepődtem - I was positively surprised
+izgalmas - exciting
+emberi - human (adj.)
+megoszt valami - to share something
+szánkózni - sledgeing
+vattacukor - cotton candy
+élvezem - i enjoy
+merevrendszer - rigid system
+összetartozás - cohesion
+malac - pork
+ciki - awkward/embarassing
+bánok - I manage
+megtiszteltetés - honorable
+boldogság - happiness
+szabadnapos - day off
+napozni - to sunbathe
+vele - with it
+tyúk láb - chicken feet
+keddenként - on Tuesdays (recurring, habitual)
+rideg - cold, sterile, unwelcoming
+UV - Sugárzás - UV Radiation
+lenyűgöz - amazing
+megfelelebbezhetetlen - indisputably
+tesz - to do/to practice
+legalábbis egy időre - at least for a while
+égen - in the sky
+cuki - cute
+árnyék - shade/shadow
+tudat - brilliant/genius
+amin - where
+ezért - therefore/so
+gyűjtenek - they collect/earn/amass
+bírom (birni) - I (can) handle, bear
+feltarjuk - we are going to reveal
+közel - near/close
+nyaralnak - they spend their vacation/they vacation
+segítségével - with the help of.../using...
+korábban - earlier
+forralt bor - hot wine
+segítenek másoknak - they help others
+lenyomata - imprint/impression
+hűtötáska - cooler (fridge)
+halkszavú - soft-spoken, quiet
+rohonva - rushing
+tábor - camp
+kánikula - heat wave
+megtalálni - to find (sth)
+ásványvize - mineral water
+elemzés - analysis
+későn - late
+vitorlázni - sailing
+megoszthatják - they can share
+szilveszter ejjel - on New Year's Eve
+szóvalasztás - word choice
+... - hoz/-hez képest - compared to sth
+láthatjak - they can see
+arra - to that (about it)
+igazság - truth
+rendeztem (rendezni ) - I arranged
+üdvözöllek - I greet you
+megfázhatunk - we can get cold
+edzenek - they train
+népszerű - popular
+finomság - nuance, subtlety
+naptej - sunscreen
+része valaminek - it's part of something
+lenyűgözött - impressive
+homokozni - to play in the sand
+legutobb - last time
+rászántam - i resolved/i decided
+térképen - on a map
+szobatársam - my roommate
+komolyan - seriously
+indul - leave for
+Hogyne? - But of course
+hangulat - mood
+mivel - 'since'/'because'
+ilyenkor - at this time
+kidobni - to thrown out
+másoknak - for others
+személyes - personal
+jégkrém - ice cream (ice lolly)
+elvitelre szánt doboz - takeaway box
+leszidott (leszidni) - scolded
+tartja - (tartani) - he holds/conducts
+elég sok - quite a lot
+önmagában - by itself
+magunkat - ourselves
+később - later/later on
+nyujt - to provide
+bejegyzés - entry
+jól érzem magam - I feel good
+nevetnek (nevetni) - they laugh
+megfázunk - we get cold
+igy - "like this"
+felkészültem - I prepared (myself)
+Véletlenül - accidentally
+szerencsés - lucky
+feszültség - tension
+megfogalmazni - phrasing/to phrase
+nem tart sokaig - doesn't last for long
+elkezdődött - start/begin
+feszült - tense
+ellen - against
+tartottál tőle - you were dreading it
+kirándulni - hiking
+átvenni - take/collect
+nyertek - they won
+teljesítményünk - our performance
+játszani - to play
+felnőtt - adult
+beletesszük - we put into/add
+köt ki - end up (in)...
+természet - nature
+kezelve van - is handled
 viszont - on the other hand/however
 fiatal - young one/youngster
-elég sok - quite a lot
-hagytam (hagyni) - I left/I forgot
-harc - fight
-árnyék - shade/shadow
-térképen - on a map
-mindennapi szokásaink - our everyday habits
-vigyázni kell - we must be careful
-boldogság - happiness
-lenyűgözött - impressive
+jelentes - meaning
+milyen sokat - how much
+szervezem - I organize
+sikerűl - succeed/manage
+bezárják - they close
+számomra - for me
+mögöttünk - behind us
+fogott meg - stood out (to me)
+pedig - while/meanwhile
+bármilyen - any
+először - firstly
+leszokom - I (will) quit
+könnyen - easily
+igekötő - verbal prefix
 jobban érezzük magunkat - we feel better
-később - later/later on
-még - still
-ütkozik - it clashes (with)
-tartottál tőle - you were dreading it
-hosszú távon - long-term
-megparancsolta (parancsolni) - she ordered
-fagyiznak - they eat ice cream
-jól érzem magam - I feel good
-alacsony - low
-bemutatkozni - to introduce oneself
-másoknak - for others
-merevrendszer - rigid system
-fiatalság - youth
-irányítás - direction/control
-gomboc - dumpling
+akarunk - we want/we desire
+betartani - to abide by/to keep
+tettek - they did/they have done
+kapni - to get
+kukába - to the trash bin
+a/az ... miatt - because of...
+manapság - nowadays/these days
+apróság - tiny thing
+csökkent valamit - to reduce something
+segít valakinek - help someone
+összeegyeztetni - to balance/receoncile
+Ki nem állhatom - I can't stand it
+költenek - they spend
+szeretlek - i love you
+időszak - period
+durván - rudely
+ételpazarlás - food waste
+például - for example
+figyelni - to pay attention
+elvitelre szánt - for takeaway
+sokkal - much
+foglalkoz - deals with (is engaged/is occupied with)
+vett részt - participated
+azonban - however
+szükségük - they need
+reggeliztetés - breakfast service
+tartó - lasting
+nem szabad - not allowed
+naptejjel beken - to apply sunscreen
+nagydij - prize
+váratlan - unexpected
+felhívott (felhívni) - called (phone)
+összes - all
+kötelező - mandatory/compulsory
+sikeres valamiben - successful in something
+csillag - star
+meglepetés - surprise
+formájú - round
+történik - to happen
+elutazhattak - they could go/they could leave for
+kerek - round/circular
+sokszor - often
+világszerte - worldwide
+döntés - decision
+békeszerződés - peace treaty
+30 fok - 30 degrees
